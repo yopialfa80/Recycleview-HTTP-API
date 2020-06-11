@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100"
+        android:title="lalaa"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView" />
+
+</menu>
